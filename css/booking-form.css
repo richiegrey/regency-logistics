@@ -1,0 +1,81 @@
+#booking-form {
+		font-family:veranda, sans-serif;
+}
+
+#booking-form h2 {
+	background: #DADFE1;
+	padding: 5px;
+	color: #95A5A6;
+	margin-bottom: 1em;
+}
+
+#booking-form input {
+	background-color:#DADFE1;
+	border:5px;
+	color:#95A5A6;
+	font-family:tahoma;
+	font-size:12px;
+	border-color:#DADFE1;
+	height:25px;
+	width:250px;
+	margin-bottom:10px;
+	padding:5px;
+}
+
+#booking-form select {
+	background-color:#DADFE1;
+	color:#95A5A6;
+	font-family:tahoma;
+	font-size:12px;
+	height:25px;
+	width:250px;
+	margin-bottom:10px;
+	padding:5px;
+	border-radius: 0;
+	border: 0;
+
+}
+
+#booking-form section {
+	margin-bottom: 1em;
+}
+
+#package-seperator {
+	border-top: 1px dashed #DADFE1;
+}
+
+#package-details-table {
+	width: 200px;
+}
+
+.add-parcel-button {
+	padding: 10px;
+	border: none;
+	background-color:#DADFE1;
+	color:#95A5A6;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.send-parcel-booking-button {
+	padding: 10px;
+	border: none;
+	background-color:#2ecc71;
+	color:#FFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.individual-package-details {
+	width:100%; 
+	display=inline; 
+	margin-top: 1em;
+}
+
+.individual-package-details span {
+	width:16.5%
+}
+
+.package-divider {
+	color:#95A5A6;	
+}
